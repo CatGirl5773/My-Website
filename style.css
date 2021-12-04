@@ -183,3 +183,11 @@ div {
 .contact_1 h4 {
     color: white;
 }
+
+#achievements li {
+    font-size: 20px;
+}
+
+#conclusion {
+    color: black !important;
+}
