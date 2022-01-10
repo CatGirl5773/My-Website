@@ -84,18 +84,13 @@ iframe {
     padding: 50px;
 }
 
-#journal {
-    background: linear-gradient(#00ff00 0%, #ffcc66 100%);
-    padding: 50px;
-}
-
 #favorite_subject {
-    background: linear-gradient(#ffcc66 0%, #ff99cc 100%);
+    background: linear-gradient(#00ff00 0%, #ffe762 100%);
     padding: 50px;
 }
 
 #school {
-    background: linear-gradient(#ff99cc 0%, #6666ff 100%);
+    background: linear-gradient(#ffe762 0%, #ff99cc 100%);
     padding-top: 50px;
     padding-bottom: 50px;
 }
