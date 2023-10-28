@@ -1,7 +1,8 @@
 body {
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     text-align: center;
     font-family: 'Gowun Dodum', sans-serif;
+    background-image: url("background2.jpg");
 }
 
 .line {
@@ -55,42 +56,38 @@ iframe {
 }
 
 #heading {
-    background: linear-gradient(#33ccff 0%, #ff99cc 100%);
     padding: 50px;
 }
 
 #about_me {
-    background: linear-gradient(#ff99cc 0%, #ffff66 100%);
     padding: 50px;
 }
 
 #my_family {
-    background: linear-gradient(#ffff66 0%, #ff794d 100%);
     padding: 50px;
 }
 
 #hobbies {
-    background: linear-gradient(#ff794d 0%, #9999ff 100%);
+    padding: 50px;
+}
+
+#journal {
     padding: 50px;
 }
 
 #activities {
-    background: linear-gradient(#9999ff 0%, #57abff 100%);
     padding: 50px;
 }
 
 #achievements {
-    background: linear-gradient(#57abff 0%, #00ff00 100%);
     padding: 50px;
 }
 
 #favorite_subject {
-    background: linear-gradient(#00ff00 0%, #ffe762 100%);
     padding: 50px;
 }
 
 #school {
-    background: linear-gradient(#ffe762 0%, #ff99cc 100%);
     padding-top: 50px;
     padding-bottom: 120px;
 }
